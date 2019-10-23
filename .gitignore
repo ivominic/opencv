@@ -1,3 +1,6 @@
+#Folderi za slike i slične fajlove koji ne treba da se dodaju na github
+fajlovi/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

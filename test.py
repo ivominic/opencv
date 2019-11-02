@@ -1,7 +1,7 @@
 """ Transformacije slike"""
 import argparse  # biblioteka za parsiranje argumenata iz komandne linije
-import imutils  # lokalni fajl/biblioteka imutils.py
 import cv2  # OpenCV biblioteka
+import imutils  # lokalni fajl/biblioteka imutils.py
 
 # Čitanje argumenata iz komandne linije i njihovo smještanje u dictionary
 AP = argparse.ArgumentParser()
